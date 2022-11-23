@@ -1,0 +1,140 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "email": "nan_alaobra@hotmail.com",
+      "password": "Imaginar@Programar",
+      "registrada": false
+    }
+  ],
+  "perfil": [
+    {
+      "id": 1,
+      "nombre": "Nancy ",
+      "apellido": "Echeverria",
+      "descripcion": "Hace un año que mi vida cambio unos 180° grados, trabajé en varios lados en rubros distintos, en cooperativas mixtas, como cuidadora de adultos mayores, construyendo casas y en pandemia se despertó en mí el gran interés por la tecnología, me dí cuenta de su importancia, el Mejor medio de comunicación que tuvimos en ese tiempo era a traves de la tecnología, y si no avanzaba con las nuevas formas de comunicación iba a quedar aislada completamente, por eso decidí aprender de cero a Programar, a entender la lógica de programación y buscando cursos encontramos el de Argentina Programa y nos anotamos sin dudarlo con mi pareja, nos llamaron enseguida y ahí empezó a cambiar nuetra forma de ver las cosas y empezamos a entender cosas que antes no le prestabamos atención, nos empezamos a crear habitos y a distribuir nuestro tiempo para poder cumplir con nuestros objetivos, también se nos dió la oportunidad de ser becados en la empresa de Oracle: One, Next Education, para estudiar con Alura Latam y profundizar aún mejor nuestros conceptos, aprendimos habilidades blandas y técnicas que fuimos sumando para nuestro desarrollo personal y profecional, hemos conocido gente maravillosa y queremos seguir aprendiendo de ellos pero también queremos ser parte de un equipo de trabajo donde podamos demostrar Todas las habilidades que venimos aprendiendo y crear un ambiente de trabajo saludable, donde podamos crecer admirando e imitando a nuestros maestros.En mis tiempos libres me gusta mucho cantar, bailar, pintar cuadros, estar rodeada de la naturaleza y de mis seres queridos, cada tanto necesito ir al rio para sentir el viento en mi cara, ese cambio de aire que siento que se lleva todo lo que no sirve y que renueva mis pensamientos y energias y donde nacen nuevas ideas. Me gusta mucho salir temprano a esperar ver la salida del sol junto con mi pareja, así nació nuestra pasión por la programación, después de un momento adverso, vimos salir el sol y renació en nosotros una nueva esperanza, nos sumerjimos juntos y formamos un equipo, nos dividimos las tareas, comenzamos a investigar y hacer cursos para prepararnos a vivir este Gran desafio: Ser Programadores Web. .Estoy feliz de poder compartir este momento con él, nos volvimos muy apasionados por los códigos, por diseñar y construir páginas web y proyectos juntos. Ahora solo falta que nos hagas parte de tu Empresa, de tu equipo de trabajo, para seguir aprendiendo y sumando Juntos.",
+      "img": "./imagenes/foto-perfil.jpg",
+      "ciudad": "La Plata, Buenos Aires, Argentina."
+    }
+  ],
+  "educacion": [
+    {
+      "id": 1,
+      "titulo": "CENS 452",
+      "descripcion": "Bachiller con orientación en Ciencias Sociales especializado en gestión de políticas públicas.",
+      "img": "./imagenes/logo Cens.webp"
+    },
+    {
+      "id": 2,
+      "titulo": "Argentina Programa",
+      "descripcion": "Curso impulsado por el Ministerio de Desarrollo de Producción",
+      "img": "./imagenes/logo-Argentina-Programa.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Oracle Next Education",
+      "descripcion": "Formación realizada con Oracle y Alura Latam",
+      "img": "./imagenes/logo-Oracle-Next-Education.webp"
+    },
+    {
+      "titulo": "Curso de Java",
+      "descripcion": "Curso realizado por el Ministerio de trabajo",
+      "img": "https://i.blogs.es/8d2420/650_1000_java/1366_2000.png",
+      "id": "7ba4e967-15a9-49cd-b25d-1cb00b42ce4b"
+    }
+  ],
+  "hobbies": [
+    {
+      "id": 1,
+      "titulo": "Cantar",
+      "img": "./imagenes/cantar.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Bailar",
+      "img": "./imagenes/bailar.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Tener plantas y flores",
+      "img": "./imagenes/flor.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Estar al aire libre",
+      "img": "./imagenes/aire-libre2.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Pintar cuadros",
+      "img": "./imagenes/cuadro.jpg"
+    },
+    {
+      "titulo": "Escribir",
+      "img": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/escribir-2043389.jpg",
+      "id": "3e9d52ce-c4ee-4fd8-9974-066a6cd0e610"
+    },
+    {
+      "id": "22c4f62b-5d4b-45c2-b79b-93721a9b4553",
+      "titulo": "Viajar ",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-aKNmgZS7Bz6eF_Jv0yhYSqxeIxdBw-wqzQ&usqp=CAU"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "titulo": "Html5",
+      "img": "./imagenes/logo-Html5.png"
+    },
+    {
+      "titulo": "JavaScript",
+      "img": "https://thumbnail.imgbin.com/0/8/11/imgbin-javascript-logo-html-javascript-logo-1gJt6c05WzKXQuybWYgXvaTYk_t.jpg",
+      "id": 3
+    },
+    {
+      "titulo": "Java",
+      "img": "https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png",
+      "id": 4
+    },
+    {
+      "titulo": "Angular",
+      "img": "https://w7.pngwing.com/pngs/620/322/png-transparent-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle-logo.png",
+      "id": 5
+    },
+    {
+      "titulo": "Github",
+      "img": "https://banner2.cleanpng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg",
+      "id": 6
+    }
+  ],
+  "proyectos": [
+    {
+      "id": 1,
+      "nombre": "Encriptador de texto",
+      "descripcion": "Desafio realizado con Alura Latam",
+      "img": "https://user-images.githubusercontent.com/91544872/157673573-5e781ce9-601c-4ea3-9db1-b60bebf717aa.png",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Juego realizado con Html5, Css3 y JavaScript",
+      "descripcion": "Accidentado",
+      "img": "https://media.istockphoto.com/vectors/accident-on-road-car-encountered-an-traffic-lights-illustration-of-vector-id1211527152?b=1&k=6&m=1211527152&s=170667a&w=0&h=8oGWpH9RsOs1sfJzA5s_bwxSORUaHSQiBmg8BmRQyuc=",
+      "url": "https://facnan2022.github.io/accidentado/"
+    },
+    {
+      "nombre": "Barbería Alura",
+      "descripcion": "Página web creada con Html y Css",
+      "img": "https://angelicaalbuquerque.github.io/barbearia_alura/banner-1600x600.jpg",
+      "url": "https://facnan2022.github.io/BarberiaAlura/",
+      "id": 3
+    },
+    {
+      "nombre": "Portfolio Nancy Echeverria",
+      "descripcion": "Portfolio realizado con Argentina Programa en Html, Css, Angular y JavaScript",
+      "img": "https://cdn-sp.radionacional.com.ar/wp-content/uploads/2021/12/Diseno-sin-titulo-1-1.png",
+      "url": " https://portfolio-nancy-echeverria.web.app/",
+      "id": 4
+    }
+  ]
+}
